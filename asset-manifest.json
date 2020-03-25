@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bootstrap-ui/static/css/main.91944d63.chunk.css",
-    "main.js": "/bootstrap-ui/static/js/main.45cffa51.chunk.js",
-    "main.js.map": "/bootstrap-ui/static/js/main.45cffa51.chunk.js.map",
-    "runtime-main.js": "/bootstrap-ui/static/js/runtime-main.9f1587dd.js",
-    "runtime-main.js.map": "/bootstrap-ui/static/js/runtime-main.9f1587dd.js.map",
-    "static/js/2.415c7278.chunk.js": "/bootstrap-ui/static/js/2.415c7278.chunk.js",
-    "static/js/2.415c7278.chunk.js.map": "/bootstrap-ui/static/js/2.415c7278.chunk.js.map",
-    "index.html": "/bootstrap-ui/index.html",
-    "precache-manifest.b1463bfd57d4085265ff27accc1bd8c4.js": "/bootstrap-ui/precache-manifest.b1463bfd57d4085265ff27accc1bd8c4.js",
-    "service-worker.js": "/bootstrap-ui/service-worker.js",
-    "static/css/main.91944d63.chunk.css.map": "/bootstrap-ui/static/css/main.91944d63.chunk.css.map",
-    "static/js/2.415c7278.chunk.js.LICENSE.txt": "/bootstrap-ui/static/js/2.415c7278.chunk.js.LICENSE.txt",
-    "static/js/main.45cffa51.chunk.js.LICENSE.txt": "/bootstrap-ui/static/js/main.45cffa51.chunk.js.LICENSE.txt",
-    "static/media/agency.min.css": "/bootstrap-ui/static/media/portfolio3.1598aa2c.jpg",
-    "static/media/logo.svg": "/bootstrap-ui/static/media/logo.5d5d9eef.svg"
+    "main.css": "/cloudops/static/css/main.a83b0f0a.chunk.css",
+    "main.js": "/cloudops/static/js/main.95ef2165.chunk.js",
+    "main.js.map": "/cloudops/static/js/main.95ef2165.chunk.js.map",
+    "runtime-main.js": "/cloudops/static/js/runtime-main.2cf9411e.js",
+    "runtime-main.js.map": "/cloudops/static/js/runtime-main.2cf9411e.js.map",
+    "static/js/2.415c7278.chunk.js": "/cloudops/static/js/2.415c7278.chunk.js",
+    "static/js/2.415c7278.chunk.js.map": "/cloudops/static/js/2.415c7278.chunk.js.map",
+    "index.html": "/cloudops/index.html",
+    "precache-manifest.950ee6401f069f71598047d49e24573f.js": "/cloudops/precache-manifest.950ee6401f069f71598047d49e24573f.js",
+    "service-worker.js": "/cloudops/service-worker.js",
+    "static/css/main.a83b0f0a.chunk.css.map": "/cloudops/static/css/main.a83b0f0a.chunk.css.map",
+    "static/js/2.415c7278.chunk.js.LICENSE.txt": "/cloudops/static/js/2.415c7278.chunk.js.LICENSE.txt",
+    "static/js/main.95ef2165.chunk.js.LICENSE.txt": "/cloudops/static/js/main.95ef2165.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/cloudops/static/media/portfolio3.1598aa2c.jpg",
+    "static/media/logo.svg": "/cloudops/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f1587dd.js",
+    "static/js/runtime-main.2cf9411e.js",
     "static/js/2.415c7278.chunk.js",
-    "static/css/main.91944d63.chunk.css",
-    "static/js/main.45cffa51.chunk.js"
+    "static/css/main.a83b0f0a.chunk.css",
+    "static/js/main.95ef2165.chunk.js"
   ]
 }
