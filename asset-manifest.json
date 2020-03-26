@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/cloudops/static/css/main.90045884.chunk.css",
-    "main.js": "/cloudops/static/js/main.81ce44a7.chunk.js",
-    "main.js.map": "/cloudops/static/js/main.81ce44a7.chunk.js.map",
+    "main.js": "/cloudops/static/js/main.2b41b395.chunk.js",
+    "main.js.map": "/cloudops/static/js/main.2b41b395.chunk.js.map",
     "runtime-main.js": "/cloudops/static/js/runtime-main.2cf9411e.js",
     "runtime-main.js.map": "/cloudops/static/js/runtime-main.2cf9411e.js.map",
     "static/js/2.415c7278.chunk.js": "/cloudops/static/js/2.415c7278.chunk.js",
     "static/js/2.415c7278.chunk.js.map": "/cloudops/static/js/2.415c7278.chunk.js.map",
     "index.html": "/cloudops/index.html",
-    "precache-manifest.e5a8363efbabb4af8ceb69fa766d5a12.js": "/cloudops/precache-manifest.e5a8363efbabb4af8ceb69fa766d5a12.js",
+    "precache-manifest.09c20d823b874f3f7543aeb750a2c731.js": "/cloudops/precache-manifest.09c20d823b874f3f7543aeb750a2c731.js",
     "service-worker.js": "/cloudops/service-worker.js",
     "static/css/main.90045884.chunk.css.map": "/cloudops/static/css/main.90045884.chunk.css.map",
     "static/js/2.415c7278.chunk.js.LICENSE.txt": "/cloudops/static/js/2.415c7278.chunk.js.LICENSE.txt",
-    "static/js/main.81ce44a7.chunk.js.LICENSE.txt": "/cloudops/static/js/main.81ce44a7.chunk.js.LICENSE.txt",
+    "static/js/main.2b41b395.chunk.js.LICENSE.txt": "/cloudops/static/js/main.2b41b395.chunk.js.LICENSE.txt",
     "static/media/agency.min.css": "/cloudops/static/media/portfolio3.1b030af0.jpg",
     "static/media/logo.svg": "/cloudops/static/media/logo.5d5d9eef.svg"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2cf9411e.js",
     "static/js/2.415c7278.chunk.js",
     "static/css/main.90045884.chunk.css",
-    "static/js/main.81ce44a7.chunk.js"
+    "static/js/main.2b41b395.chunk.js"
   ]
 }
