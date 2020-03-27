@@ -60,7 +60,7 @@ function App() {
     <div className="App">
       <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div class="container">
-          <a class="navbar-brand js-scroll-trigger" href="home" onClick={() => scrollToTop()}>CloudOps<sub class="navbar-sub">LLC</sub></a>
+          <a class="navbar-brand js-scroll-trigger" href="/cloudops" onClick={() => scrollToTop()}>CloudOps<sub class="navbar-sub">LLC</sub></a>
           <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fa fa-bars"></i>
@@ -90,8 +90,8 @@ function App() {
       <header class="masthead">
         <div class="container">
           <div class="intro-text">
-            <div class="intro-lead-in"></div>
-            <div class="intro-heading">Build your workforce with us!</div>
+            <div class="intro-lead-in">Welcome!</div>
+            <div class="intro-heading">Build your workforce with us</div>
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
           </div>
         </div>
@@ -105,7 +105,7 @@ function App() {
               <h3 class="section-subheading text-muted">We are aiming to please the tech community with our services</h3>
             </div>
           </div>
-          <div class="row text-center">
+          <div class="row text-center" style={{marginBottom:"200px"}}>
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -144,14 +144,14 @@ function App() {
             </div>
           </div>
           <div class="portfolio-item portfolio-img-bg row">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+              {/* <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fa fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="static/img/map-image.png" alt=""/>
-              </a>
+                // <img class="img-fluid" src="static/img/map-image.png" alt=""/>
+              </a> */}
               <div class="portfolio-caption">
                 <h4>What we offer</h4>
                 <p class="text-muted"><br/></p>
@@ -160,11 +160,14 @@ function App() {
                 individual business needs. The highlights of our portfolios are:</p>
                 <p>
                   <ul style={{display: "inline-block", textAlign: "left"}}>
+                    <br/>
                     <li>Client comes first!</li>
                     <li>Competitive cost structure</li>
                     <li>Save money for clients</li>
                     <li>Hire best people</li>
-                    <li>Committed engagement team</li>
+                    <br/>
+                    <br/>
+                    <br/>
                   </ul>
                 </p>
                 
@@ -190,7 +193,7 @@ function App() {
                       <i class="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt=""/>
+                  // <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt=""/>
                 </a>
                 <div class="portfolio-caption">
                   <h4>Threads</h4>
@@ -204,7 +207,7 @@ function App() {
                       <i class="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt=""/>
+                  // <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt=""/>
                 </a>
                 <div class="portfolio-caption">
                   <h4>Explore</h4>
@@ -218,7 +221,7 @@ function App() {
                       <i class="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt=""/>
+                  // <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt=""/>
                 </a>
                 <div class="portfolio-caption">
                   <h4>Finish</h4>
@@ -232,7 +235,7 @@ function App() {
                       <i class="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt=""/>
+                  // <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt=""/>
                 </a>
                 <div class="portfolio-caption">
                   <h4>Lines</h4>
@@ -246,7 +249,7 @@ function App() {
                       <i class="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt=""/>
+                  // <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt=""/>
                 </a>
                 <div class="portfolio-caption">
                   <h4>Southwest</h4>
@@ -260,7 +263,7 @@ function App() {
                       <i class="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt=""/>
+                  // <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt=""/>
                 </a>
                 <div class="portfolio-caption">
                   <h4>Window</h4>
@@ -285,7 +288,7 @@ function App() {
               <ul class="timeline">
                 <li>
                   <div class="timeline-image">
-                    <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt=""/>
+                    {/* <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt=""/> */}
                   </div>
                   <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -305,7 +308,7 @@ function App() {
                 </li>
                 <li class="timeline-inverted">
                   <div class="timeline-image">
-                    <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt=""/>
+                    {/* <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt=""/> */}
                   </div>
                   <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -325,7 +328,7 @@ function App() {
                 </li>
                 {/* <li>
                   <div class="timeline-image">
-                    <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt=""/>
+                    // <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt=""/>
                   </div>
                   <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -339,7 +342,7 @@ function App() {
                 </li>
                 <li class="timeline-inverted">
                   <div class="timeline-image">
-                    <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt=""/>
+                    // <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt=""/>
                   </div>
                   <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -376,7 +379,7 @@ function App() {
           <div class="row">
             <div class="col-sm-4">
               <div class="team-member">
-                <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt=""/>
+                // <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt=""/>
                 <h4>Kay Garland</h4>
                 <p class="text-muted">Lead Designer</p>
                 <ul class="list-inline social-buttons">
@@ -400,7 +403,7 @@ function App() {
             </div>
             <div class="col-sm-4">
               <div class="team-member">
-                <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt=""/>
+                // <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt=""/>
                 <h4>Larry Parker</h4>
                 <p class="text-muted">Lead Marketer</p>
                 <ul class="list-inline social-buttons">
@@ -424,7 +427,7 @@ function App() {
             </div>
             <div class="col-sm-4">
               <div class="team-member">
-                <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt=""/>
+                // <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt=""/>
                 <h4>Diana Pertersen</h4>
                 <p class="text-muted">Lead Developer</p>
                 <ul class="list-inline social-buttons">
@@ -455,7 +458,7 @@ function App() {
         </div>
       </section> */}
 
-
+{/* 
       <section class="py-5">
         <div class="container">
           <div class="row">
@@ -481,7 +484,7 @@ function App() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
 
       <section class="page-section" id="contact">
@@ -499,21 +502,21 @@ function App() {
                   <div class="col-md-6">
                     <div class="form-group">
                       <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name."/>
-                      <p class="help-block text-danger"></p>
+                      <p class="help-block text-danger" style={{textAlign:"left"}}></p>
                     </div>
                     <div class="form-group">
                       <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address."/>
-                      <p class="help-block text-danger"></p>
+                      <p class="help-block text-danger" style={{textAlign:"left"}}></p>
                     </div>
                     <div class="form-group">
                       <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number."/>
-                      <p class="help-block text-danger"></p>
+                      <p class="help-block text-danger" style={{textAlign:"left"}}></p>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
                       <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
-                      <p class="help-block text-danger"></p>
+                      <p class="help-block text-danger" style={{textAlign:"left"}}></p>
                     </div>
                   </div>
                   <div class="clearfix"></div>
@@ -586,7 +589,7 @@ function App() {
               
                     <h2 class="text-uppercase">Project Name</h2>
                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                    <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt=""/>
+                    {/* <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt=""/> */}
                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
                       <li>Date: January 2017</li>
@@ -620,7 +623,7 @@ function App() {
               
                     <h2 class="text-uppercase">Project Name</h2>
                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                    <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt=""/>
+                    {/* <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt=""/> */}
                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
                       <li>Date: January 2017</li>
@@ -654,7 +657,7 @@ function App() {
               
                     <h2 class="text-uppercase">Project Name</h2>
                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                    <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt=""/>
+                    {/* <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt=""/> */}
                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
                       <li>Date: January 2017</li>
@@ -688,7 +691,7 @@ function App() {
               
                     <h2 class="text-uppercase">Project Name</h2>
                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                    <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt=""/>
+                    {/* <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt=""/> */}
                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
                       <li>Date: January 2017</li>
@@ -722,7 +725,7 @@ function App() {
               
                     <h2 class="text-uppercase">Project Name</h2>
                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                    <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt=""/>
+                    {/* <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt=""/> */}
                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
                       <li>Date: January 2017</li>
@@ -756,7 +759,7 @@ function App() {
               
                     <h2 class="text-uppercase">Project Name</h2>
                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                    <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt=""/>
+                    {/* <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt=""/> */}
                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
                       <li>Date: January 2017</li>
