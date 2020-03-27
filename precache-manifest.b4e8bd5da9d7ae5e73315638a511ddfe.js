@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0263559c1596dc1a6862e9f23e76f4d",
+    "revision": "9bc43de5b31e0af1b32299ff91e3ee73",
     "url": "/cloudops/index.html"
   },
   {
-    "revision": "d3543f7f4ad7765b7070",
-    "url": "/cloudops/static/css/main.54dfda3d.chunk.css"
+    "revision": "cdc51fbf89120964d269",
+    "url": "/cloudops/static/css/main.2a7d9bbf.chunk.css"
   },
   {
     "revision": "ad48dfdedf3467ab88d3",
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cloudops/static/js/2.415c7278.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3543f7f4ad7765b7070",
-    "url": "/cloudops/static/js/main.29313484.chunk.js"
+    "revision": "cdc51fbf89120964d269",
+    "url": "/cloudops/static/js/main.231bef85.chunk.js"
   },
   {
     "revision": "1fb83f590a2a2e29c31e2c9b74e01f43",
-    "url": "/cloudops/static/js/main.29313484.chunk.js.LICENSE.txt"
+    "url": "/cloudops/static/js/main.231bef85.chunk.js.LICENSE.txt"
   },
   {
     "revision": "8e78a9578de9d264849f",
