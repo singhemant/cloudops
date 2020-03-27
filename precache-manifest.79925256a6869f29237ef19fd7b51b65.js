@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c0334c16e98f59f58c35f12dfb22070",
+    "revision": "f0263559c1596dc1a6862e9f23e76f4d",
     "url": "/cloudops/index.html"
   },
   {
-    "revision": "c860242f5691943ce20d",
-    "url": "/cloudops/static/css/main.90045884.chunk.css"
+    "revision": "d3543f7f4ad7765b7070",
+    "url": "/cloudops/static/css/main.54dfda3d.chunk.css"
   },
   {
     "revision": "ad48dfdedf3467ab88d3",
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cloudops/static/js/2.415c7278.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c860242f5691943ce20d",
-    "url": "/cloudops/static/js/main.540f83ad.chunk.js"
+    "revision": "d3543f7f4ad7765b7070",
+    "url": "/cloudops/static/js/main.29313484.chunk.js"
   },
   {
     "revision": "1fb83f590a2a2e29c31e2c9b74e01f43",
-    "url": "/cloudops/static/js/main.540f83ad.chunk.js.LICENSE.txt"
+    "url": "/cloudops/static/js/main.29313484.chunk.js.LICENSE.txt"
   },
   {
     "revision": "8e78a9578de9d264849f",
     "url": "/cloudops/static/js/runtime-main.2cf9411e.js"
   },
   {
-    "revision": "bd3dae0686abd174efaa984cddd6683e",
-    "url": "/cloudops/static/media/header-bg.bd3dae06.jpg"
+    "revision": "0f3fa4b3c7c0cc233fb8e96460a68358",
+    "url": "/cloudops/static/media/header-bg.0f3fa4b3.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
