@@ -17,9 +17,9 @@
     "static/media/logo.svg": "/cloudops/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cf9411e.js",
-    "static/js/2.415c7278.chunk.js",
-    "static/css/main.2a7d9bbf.chunk.css",
-    "static/js/main.231bef85.chunk.js"
+    "/cloudops/static/js/runtime-main.2cf9411e.js",
+    "/cloudops/static/js/2.415c7278.chunk.js",
+    "/cloudops/static/css/main.2a7d9bbf.chunk.css",
+    "/cloudops/static/js/main.231bef85.chunk.js"
   ]
 }
