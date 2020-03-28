@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cloudops/static/css/main.2a7d9bbf.chunk.css",
-    "main.js": "/cloudops/static/js/main.231bef85.chunk.js",
-    "main.js.map": "/cloudops/static/js/main.231bef85.chunk.js.map",
-    "runtime-main.js": "/cloudops/static/js/runtime-main.2cf9411e.js",
-    "runtime-main.js.map": "/cloudops/static/js/runtime-main.2cf9411e.js.map",
-    "static/js/2.415c7278.chunk.js": "/cloudops/static/js/2.415c7278.chunk.js",
-    "static/js/2.415c7278.chunk.js.map": "/cloudops/static/js/2.415c7278.chunk.js.map",
-    "index.html": "/cloudops/index.html",
-    "precache-manifest.b4e8bd5da9d7ae5e73315638a511ddfe.js": "/cloudops/precache-manifest.b4e8bd5da9d7ae5e73315638a511ddfe.js",
-    "service-worker.js": "/cloudops/service-worker.js",
-    "static/css/main.2a7d9bbf.chunk.css.map": "/cloudops/static/css/main.2a7d9bbf.chunk.css.map",
-    "static/js/2.415c7278.chunk.js.LICENSE.txt": "/cloudops/static/js/2.415c7278.chunk.js.LICENSE.txt",
-    "static/js/main.231bef85.chunk.js.LICENSE.txt": "/cloudops/static/js/main.231bef85.chunk.js.LICENSE.txt",
-    "static/media/agency.min.css": "/cloudops/static/media/portfolio3.1b030af0.jpg",
-    "static/media/logo.svg": "/cloudops/static/media/logo.5d5d9eef.svg"
+    "main.css": "./static/css/main.945f8d6f.chunk.css",
+    "main.js": "./static/js/main.ff1c0bae.chunk.js",
+    "main.js.map": "./static/js/main.ff1c0bae.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5f3524c6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5f3524c6.js.map",
+    "static/js/2.415c7278.chunk.js": "./static/js/2.415c7278.chunk.js",
+    "static/js/2.415c7278.chunk.js.map": "./static/js/2.415c7278.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.13651844cde6991732f36bfb98b8fe9d.js": "./precache-manifest.13651844cde6991732f36bfb98b8fe9d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.945f8d6f.chunk.css.map": "./static/css/main.945f8d6f.chunk.css.map",
+    "static/js/2.415c7278.chunk.js.LICENSE.txt": "./static/js/2.415c7278.chunk.js.LICENSE.txt",
+    "static/js/main.ff1c0bae.chunk.js.LICENSE.txt": "./static/js/main.ff1c0bae.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "./static/media/portfolio3.1b030af0.jpg",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "/cloudops/static/js/runtime-main.2cf9411e.js",
-    "/cloudops/static/js/2.415c7278.chunk.js",
-    "/cloudops/static/css/main.2a7d9bbf.chunk.css",
-    "/cloudops/static/js/main.231bef85.chunk.js"
+    "static/js/runtime-main.5f3524c6.js",
+    "static/js/2.415c7278.chunk.js",
+    "static/css/main.945f8d6f.chunk.css",
+    "static/js/main.ff1c0bae.chunk.js"
   ]
 }
